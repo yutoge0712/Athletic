@@ -1,0 +1,16 @@
+Athletic/.vs
+Athletic/*.csproj
+Athletic/Library
+Athletic/Temp/
+Athletic/Library/
+Athletic/Packages/
+Athletic/obj/
+Athletic/*.unitypackage
+Athletic/*.sln
+Athletic/UnityPackageManager
+Athletic/*.collabignore
+Athletic/AssetBundles/
+Athletic/Logs
+Athletic/UserSettings
+Athletic/shadercompiler-UnityShaderCompiler.exe
+EXE
